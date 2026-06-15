@@ -90,8 +90,8 @@ aws iam list-roles --profile <Your AWS Config profile> | grep -i AWSServiceRoleF
 dirLocalInventory: ~/magma-dev
 orc8rClusterName: Sydney
 orc8rDomainName: ens-16-sydney.failedwizard.dev
-orc8rLabel: 1.8.0
-orc8rVersion: v1.8
+orc8rLabel: 1.9.0
+orc8rVersion: v1.9
 awsOrc8rRegion: ap-southeast-2
 varBuildType: community
 varFirstInstall: "false"
